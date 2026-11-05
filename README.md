@@ -5,6 +5,8 @@
 
 This project documents the implementation of a personal Wazuh SIEM environment for learning Security Engineering and DevSecOps.
 
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
 ## Objectives
 
 - Learn SIEM fundamentals
