@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Wazuh Homelab
 
 ## Overview
