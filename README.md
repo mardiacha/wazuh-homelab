@@ -55,5 +55,9 @@ This project documents the implementation of a personal Wazuh SIEM environment f
 Project is currently under development.
 ``
 =======
-# wazuh-homelab
->>>>>>> 53a2b8d085a567079ef565741fba687b22925898
+# Study Cases
+[ ] SSH Brute Force Detection
+[ ] File Integrity Monitoring
+[ ] Vulnerability Detection
+[ ] Active Response
+[ ] MITRE ATT&CK Analysis
