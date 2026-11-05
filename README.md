@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wazuh Homelab
 
 ## Overview
@@ -43,12 +44,15 @@ This project documents the implementation of a personal Wazuh SIEM environment f
 - [x] Environment preparation
 - [x] Hardware validation
 - [x] Download installer
-- [ ] Wazuh installation
-- [ ] Dashboard verification
-- [ ] Agent deployment
-- [ ] Alert configuration
+- [x] Wazuh installation
+- [x] Dashboard verification
+- [x] Agent deployment
+- [x] Alert configuration
 
 ## Notes
 
 Project is currently under development.
 ``
+=======
+# wazuh-homelab
+>>>>>>> 53a2b8d085a567079ef565741fba687b22925898
