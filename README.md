@@ -56,8 +56,8 @@ Project is currently under development.
 ``
 =======
 # Study Cases
-[ ] SSH Brute Force Detection
-[ ] File Integrity Monitoring
-[ ] Vulnerability Detection
-[ ] Active Response
-[ ] MITRE ATT&CK Analysis
+- [ ] SSH Brute Force Detection
+- [ ] File Integrity Monitoring
+- [ ] Vulnerability Detection
+- [ ] Active Response
+- [ ] MITRE ATT&CK Analysis
